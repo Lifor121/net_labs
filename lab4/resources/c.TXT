@@ -1,0 +1,36 @@
+|------------------------------------------------------------------------------------------|
+|                                      WinMTR statistics                                   |
+|                       Host              -   %  | Sent | Recv | Best | Avrg | Wrst | Last |
+|------------------------------------------------|------|------|------|------|------|------|
+|                       dlinkrouter.local -    0 |   17 |   17 |    0 |    0 |    0 |    0 |
+|                    ppp-gw.tis-dialog.ru -    0 |   17 |   17 |    0 |   13 |   61 |    9 |
+|                           10.192.168.12 -    0 |   17 |   17 |    0 |    0 |    2 |    1 |
+|                          10.192.168.200 -    0 |   17 |   17 |    1 |    1 |    1 |    1 |
+|                          10.192.168.135 -    0 |   17 |   17 |    1 |    1 |    2 |    1 |
+|             war-b3-link.ip.twelve99.net -    0 |   17 |   17 |   14 |   14 |   14 |   14 |
+|            ffm-bb2-link.ip.twelve99.net -    0 |   17 |   17 |   31 |   31 |   32 |   31 |
+|            ffm-b14-link.ip.twelve99.net -    0 |   17 |   17 |   32 |   33 |   35 |   33 |
+|microsoft-ic-356574.ip.twelve99-cust.net -    0 |   17 |   17 |   31 |   31 |   32 |   31 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|         be1121.owr01.fra25.ntwk.msn.net -   75 |    4 |    1 |    0 |   33 |   33 |   33 |
+|         po1012.rwa03.fra25.ntwk.msn.net -    0 |   17 |   17 |   31 |   31 |   31 |   31 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|                   No response from host -  100 |    3 |    0 |    0 |    0 |    0 |    0 |
+|________________________________________________|______|______|______|______|______|______|
+   WinMTR v0.92 GPL V2 by Appnor MSP - Fully Managed Hosting & Cloud Provider
